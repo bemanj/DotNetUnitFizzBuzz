@@ -1,0 +1,9 @@
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Library.dll
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\rober\source\repos\SourceTreeRepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
