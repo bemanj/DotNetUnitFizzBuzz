@@ -33,7 +33,7 @@ namespace FizzBuzz.Library.Test
 
         [Test]
         public void Buzzer_When3_ReturnsFizz(
-            [Values(3, 6, 9, 12, 18)] int input)
+            [Values(3, 6, 9, 12, 18, 21)] int input)
         {
             string output = FizzBuzzer.GetValue(input);
             Assert.AreEqual("Fizz", output);
